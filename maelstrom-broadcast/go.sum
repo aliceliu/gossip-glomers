@@ -1,0 +1,6 @@
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20230315174507-d70afb861ba0 h1:R3hw8cOjyn6FwfWF1Mue4bszqkbvEVlVRJvHhn2i82Y=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20230315174507-d70afb861ba0/go.mod h1:i6aVIs5AIOOaQF1lAisBm7DDeWM1Iopf+26UxjagsCU=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20230320025812-9d9683984b15 h1:yTnBy8ltWkdJcSgLm43zegODDXC5gs4YV08u14KrLgA=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20230320025812-9d9683984b15/go.mod h1:i6aVIs5AIOOaQF1lAisBm7DDeWM1Iopf+26UxjagsCU=
+golang.org/x/exp v0.0.0-20230321023759-10a507213a29 h1:ooxPy7fPvB4kwsA2h+iBNHkAbp/4JxTSwCmvdjEYmug=
+golang.org/x/exp v0.0.0-20230321023759-10a507213a29/go.mod h1:CxIveKay+FTh1D0yPZemJVgC/95VzuuOLq5Qi4xnoYc=
